@@ -1,5 +1,7 @@
-### Hi there 👋
-#### Code can't lie comments can
+## Hi there 👋
+Hello! My name is Lakshya Bansal, currently pursuing B.tech in computer science and engineering. Open to collaborate on projects with awesome peeps.
+
+[![Twitter Badge](https://img.shields.io/badge/-@lakshya__bansal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lakshya__bansal)](https://twitter.com/lakshya__bansal) [![Linkedin Badge](https://img.shields.io/badge/-lakshyabansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshyabansal/)](https://www.linkedin.com/in/lakshyabansal/)
 <!--
 **prog-hammer/prog-hammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
