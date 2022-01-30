@@ -2,11 +2,11 @@
 <h3 align="center"><img height=200 src="https://i.pinimg.com/originals/1e/c7/5d/1ec75dcffb5e90cb9fe316ddb7efb87a.gif"/></h3>
 <h3 align="center">I'm a Full Stack Web Developer with a keen interest in Blockchain</h3>
 
-- 🔭 I’m currently working on **Backend Development and Blockchain**
+- 🔭 I’m currently working on **Backend Development(Node.js/ Ruby) and Blockchain.**
 - 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on **MERN Stack or Blockchain Projects**
-- 🤔 I’m looking for help with **Getting started with Spring Boot**
-- 💬 Ask me about **MERN Stack, Data Analysis and Blockchain**
+- 🤔 I’m looking for help with **Getting started with Hyperledger**
+- 💬 Ask me about **MERN Stack and Blockchain**
 <br/>
 
 ## 🙋‍♂️ Connect with me
@@ -43,12 +43,11 @@
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 <br/>
 
 ## 📊 Github stats
 <p align="center">
-<a href="#"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshya-20's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-20&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lakshya-20's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshya-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lakshya-20's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-20&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
- </p>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshya-20's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-20&theme=tokyonight&hide_border=true" height="192px" width="950px"/>
+<img alt="lakshya-20's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshya-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/>
