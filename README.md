@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Lakshya Bansal  👋</h1>
-<h3 align="center"><img height=200 src="https://i.pinimg.com/originals/1e/c7/5d/1ec75dcffb5e90cb9fe316ddb7efb87a.gif"/></h3>
-<h3 align="center">I'm a Full Stack Web Developer with a keen interest in Blockchain</h3>
+<!-- <h3 align="center"><img height=200 src="https://i.pinimg.com/originals/1e/c7/5d/1ec75dcffb5e90cb9fe316ddb7efb87a.gif"/></h3> -->
+<h3 align="center">I'm a Full Stack Web and DApp Developer.</h3>
 
-- 🔭 I’m currently working on **Backend Development(Node.js/ Ruby) and Blockchain.**
+- 🔭 I’m currently working on **MERN Development and Ethereum Blockchain.**
 - 🌱 I’m currently learning **Blockchain**
-- 👯 I’m looking to collaborate on **MERN Stack or Blockchain Projects**
-- 🤔 I’m looking for help with **Getting started with Hyperledger**
-- 💬 Ask me about **MERN Stack and Blockchain**
+- 👯 I’m looking to collaborate on **DApps**
+- 🤔 I’m looking for help with **Getting started with Hyperledger (Private Blockchains)**
 <br/>
 
 ## 🙋‍♂️ Connect with me
@@ -19,7 +18,7 @@
 
 <br/>
 
-## 🛠 Favourite Languages and Tools
+<!-- ## 🛠 Favourite Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -45,9 +44,10 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-<br/>
+<br/> -->
 
-## 📊 Github stats
+<!-- ## 📊 Github stats
 <p align="center">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lakshya-20's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-20&theme=tokyonight&hide_border=true" height="192px" width="950px"/>
 <img alt="lakshya-20's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshya-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/>
+ -->
