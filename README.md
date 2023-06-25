@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN Development and Ethereum Blockchain.**
 - 🌱 I’m currently learning **Blockchain**
-- 👯 I’m looking to collaborate on **DApps**
+- 👯 I’m looking to collaborate on **DApps** and **Backend Projects**
 - 🤔 I’m looking for help with **Getting started with Hyperledger (Private Blockchains)**
 <br/>
 
@@ -14,8 +14,8 @@
 <a href="https://github.com/lakshya-20"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://twitter.com/lakshya__bansal"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lakshyabansal/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/lakshya.tech/"><img alt="Instagram" title="My Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
 <br/>
 
 <!-- ## 🛠 Favourite Languages and Tools
